@@ -14,8 +14,30 @@
   background-color: white;
 }
 
-#left, #center {
+.left, .center {
   border-right: 2px solid #b9b9b9;
+}
+
+.col-4 {
+  text-align: center;
+}
+
+#logo {
+  height: 236px;
+  width: 300px;
+}
+
+.jb {
+  height: 434px;
+  width: 300px;
+}
+
+td {
+  padding: 3px;
+}
+
+th, td {
+  border: solid black;
 }
 
 /*# sourceMappingURL=styles.css.map */
